@@ -25,6 +25,8 @@ I used React.js framework to create the webpage. The code for this is available 
 - now all the necessary files are downloaded in the VSC.
 
 3. React project is successfully run on web browser. Here how it looks
+<img src="" />
+
 
    
    
