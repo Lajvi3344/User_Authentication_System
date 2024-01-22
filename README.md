@@ -18,9 +18,13 @@ I used React.js framework to create the webpage. The code for this is available 
 1. Open Visual Studio code and create one folder "Login"
 2. Open terminal and run this command :
    npx create-react-app login
+   
    npm start
 
-- now all the necessary files are downloaded in the VSC. 
+- now all the necessary files are downloaded in the VSC.
+
+3. React project is successfully run on web browser. Here how it looks
+
    
    
 
