@@ -26,7 +26,9 @@ I used React.js framework to create the webpage. The code for this is available 
    
    npm start
 
-- now all the necessary files are downloaded in the VSC.
+- You can now view login in the browser.
+
+  http://localhost:3000
 
 3. React project is successfully run on web browser. Here how it looks
 <img src="screenshots/Login webpage.png" />
