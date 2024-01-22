@@ -10,7 +10,7 @@
 ## Description 
 I used React.js framework to create the webpage. The code for this is available in this  [repository](https://github.com/Lajvi3344/User_Authentication_System/tree/main/login)
 
-## code 
+## Code 
 1. Login webpage :  [Click here for code](https://github.com/Lajvi3344/User_Authentication_System/tree/main/login/src/components/Login). This includes .jsx and CSS file for user login.
 2. User Dashboard : [Click here for code](https://github.com/Lajvi3344/User_Authentication_System/tree/main/login/src/components/UserDashboard) This includes .jsx and CSS file for User profile and dashboard.
 
@@ -18,7 +18,7 @@ I used React.js framework to create the webpage. The code for this is available 
 1. [Visual Studio Code](https://code.visualstudio.com/download)
 2. [Node js](https://nodejs.org/en/download/current)
 
-# How it works?
+## How it works?
 1. Open Visual Studio code and create one folder "Login"
 2. Open terminal and run this command :
 
