@@ -32,7 +32,8 @@ I used React.js framework to create the webpage. The code for this is available 
 4. Add the details in the field username, email and password. After adding the details, the entries will show in the All profile section.
    Now you can select a particulat entry and modify the details if needed. The updated profiles will shown in the All profile section.
 
-   <img src=""/>
+   <img src="screenshots/User profile.png"/>
+   <img src="screenshots/User profile(2).png"/>
 
 
    
